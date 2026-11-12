@@ -1,0 +1,8 @@
+START HERE
+==========
+1. Read README.md first. It explains the architecture, setup, deployment and Swiss Ephemeris licensing.
+2. Start the Python API in backend/.
+3. Start the Next.js app in frontend/.
+4. Use the form to calculate a D1/D9 chart and Vimshottari mahadasha sequence.
+
+IMPORTANT: The calculation service is the first functional milestone. The Supabase SQL schema is only a database foundation and is not yet connected to the API. No account system or chart persistence is active. Resolve the Swiss Ephemeris license before public/commercial deployment.

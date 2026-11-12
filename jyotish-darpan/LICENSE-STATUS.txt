@@ -1,0 +1,5 @@
+LICENSE STATUS: NOT YET CLEARED FOR PUBLIC/COMMERCIAL DEPLOYMENT
+
+This project depends on pyswisseph / Swiss Ephemeris. Swiss Ephemeris is dual-licensed under AGPL-3.0 or a commercial Professional License. The project owner must choose and comply with an applicable license before distributing this software or activating a public network service. See README.md and https://www.astro.com/swisseph/swephinfo_g.htm.
+
+No blanket proprietary license is granted by this starter repository.
